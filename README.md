@@ -51,8 +51,8 @@
 
 ## 博客主要页面图
 
-![博客首页图](./images/blog-index.png)
-![博客文章图](./images/blog.png)
-![博客标签页图](./images/blog-tag.png)
-![博客归档页图](./images/blog-archives.png)
-![博客评论页图](./images/blog-comment.png)
+![博客首页图](./blog-index.png)
+![博客文章图](./blog.png)
+![博客标签页图](./blog-tag.png)
+![博客归档页图](./blog-archives.png)
+![博客评论页图](./blog-comment.png)
